@@ -14,7 +14,8 @@ Learning     Backend development · Full-stack fundamentals
 📫 Find Me
 
 💻 Right here on GitHub
-☕ Sponsor my work
+   [On X](https://x.com/Malys520572) 
+   ☕ Sponsor my work
 
 
 <sub>I build tools that solve my own problems — then share them.</sub>
