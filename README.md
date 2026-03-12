@@ -15,7 +15,8 @@ Learning     Backend development · Full-stack fundamentals
 
 💻 Right here on GitHub
    [On X](https://x.com/Malys520572) 
-   ☕ Sponsor my work
+   [reddit](https://www.reddit.com/user/Electrical_Funny6177/)
+    ☕ Sponsor my work
 
 
 <sub>I build tools that solve my own problems — then share them.</sub>
