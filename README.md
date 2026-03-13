@@ -1,6 +1,7 @@
 Hey, I'm Malys 👋
 Aspiring Full-Stack Developer · Linux enthusiast · Building tools I actually use
-I run Garuda Linux with i3wm and spend my time customizing my desktop, writing scripts, and learning backend development. Currently working through Python and TypeScript — building real projects along the way.
+I run Garuda Linux with i3wm and spend my time customizing my desktop, writing scripts, and learning backend development. Currently working through Python and TypeScript — building real projects along the way. Also, here's a big thank you to [boot.dev](https://www.boot.dev/) for getting me this far, so far. Super fun and easy to use if you're trying the learn from home approach to learning to code.
+[Claude](https://claude.ai/), of couse has also been rather usefull so far  
 
 🔨 What I'm Working On
 
