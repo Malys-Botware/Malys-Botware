@@ -16,7 +16,7 @@ Also, here's a big thank you to [boot.dev](https://www.boot.dev/) for getting me
 
 📫 Find Me
 
-💻 Right here on GitHub | 
+💻 Right here on GitHub 
    | [On X](https://x.com/Malys520572) 
    | [reddit](https://www.reddit.com/user/Electrical_Funny6177/)
    | ☕ Sponsor my work
