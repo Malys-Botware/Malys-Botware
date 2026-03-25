@@ -1,4 +1,4 @@
-Hey, I'm BalthazarVSBotware 👋
+Hey, I'm BalthazarVSBotWare 👋
 Aspiring Full Stack & Video Game Dev, Linux enthusiast, Building tools I actually use
 
 I run Garuda Linux with i3wm and spend my time customizing my desktop, arguing with my computer, and learning software / videogame development. Currently working through Python and TypeScript.
