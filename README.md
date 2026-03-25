@@ -8,7 +8,7 @@ Also, here's a big thank you to [boot.dev](https://www.boot.dev/) for getting me
 
 🔨 What I'm Working On
 
- [My Site](https://balthazarvsbotware.github.io/) - My personal Site, where I talk about what im doing in the workshop. \
+ [My Site](https://balthazarvsbotware.github.io/) - My personal Site, where I talk about what im doing in the currently non-existant workshop. \
  [Bal's Builders Journal](https://balthazarvsbotware.github.io/journal/) - Offline PWA journal & productivity app. \
  [i3-keybindings-cheatsheet](https://github.com/BalthazarVSBotWare/i3-keybindings-cheatsheet) - A live, searchable, editable cheatsheet for i3 keybindings. Parses your config, serves a local web UI, integrates with polybar. Almost Zero dependencies.
 
