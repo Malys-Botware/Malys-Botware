@@ -21,8 +21,8 @@ Also, here's a big thank you to [boot.dev](https://www.boot.dev/) for getting me
 📫 Find Me
 
 💻 Right here on GitHub
-   | [On X](https://x.com/BalthazarVSBotWare)
-   | [reddit](https://www.reddit.com/user/Electrical_Funny6177/)
+   | [On X](https://x.com/BalVSBotWare)
+   
 
 
 <sub>Im probably tinkering, learning, or lost in thought, pretty open to whatever, workshop under construction :(</sub>
